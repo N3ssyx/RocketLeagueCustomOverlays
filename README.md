@@ -14,15 +14,15 @@ Even if both old and new overlays were used during self-organised showmatches an
 - Once [BakkesMod](https://www.bakkesmod.com/) is installed with the [SOS-Plugin](https://gitlab.com/bakkesplugins/sos/sos-plugin), clone this repo anywhere on your computer.
 - Clone [SOS WS Relay](https://gitlab.com/bakkesplugins/sos/sos-ws-relay) & [move.js](https://github.com/visionmedia/move.js/), create folders respectively named "sos-ws-relay-master" and "move.js-master" at the root of this project and drop all their files inside those 2 new folders.
 - Your RocketLeagueCustomOverlays folder must now look like this :
-├── drops
-├── fonts
-├── icons
-├── move.js-master
-│   ├── (all files from [move.js](https://github.com/visionmedia/move.js/) clone)
-├── newOverlay
-├── oldOverlay
-├── sos-ws-relay-master
-│   ├── (all files from [SOS WS Relay](https://gitlab.com/bakkesplugins/sos/sos-ws-relay) clone)
+├── drops \
+├── fonts \
+├── icons \
+├── move.js-master \
+│   ├── (all files from [move.js](https://github.com/visionmedia/move.js/) clone) \
+├── newOverlay \
+├── oldOverlay \
+├── sos-ws-relay-master \
+│   ├── (all files from [SOS WS Relay](https://gitlab.com/bakkesplugins/sos/sos-ws-relay) clone) \
 └── README.md
 
 ## How to use :
